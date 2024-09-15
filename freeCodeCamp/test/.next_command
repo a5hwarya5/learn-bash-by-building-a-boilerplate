@@ -227,3 +227,5 @@ rm --help
 -r fonts
 rm -r
 rm -r fonts
+find
+ls --color=auto
