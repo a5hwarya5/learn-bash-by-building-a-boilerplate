@@ -177,3 +177,6 @@ mv styles.css client/src
 find
 find client
 find --help
+find -index.htm
+find -index.html
+find -name index.html
