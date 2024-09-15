@@ -149,3 +149,5 @@ ls --color=auto
 __vsc_prompt_cmd_original
 cd ..
 ls --color=auto
+header.png
+rm header.png
