@@ -181,3 +181,5 @@ find -index.htm
 find -index.html
 find -name index.html
 find -name styles.css
+__vsc_prompt_cmd_original
+find -name src
